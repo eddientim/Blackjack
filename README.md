@@ -1,3 +1,3 @@
 # Blackjack
 
-Simple blackjeck game with a player and a dealer.
+Simple blackjack game with a player and a dealer.
